@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuvraj Singh
+- 👋 Hi, I’m Yuvraj Singh, Currently pursuing CSE from SRMIST.
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Backbox and kali linux.
 - 💞️ I’m looking to collaborate on fields related to pentesting.
