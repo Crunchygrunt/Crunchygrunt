@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on fields related to pentesting.
 - 📫 How to reach me: yuvrajsigh1402@gmail.com
 
-
-
-
-- <script src="https://tryhackme.com/badge/443869"></script>
-
 <!---
 Crunchygrunt/Crunchygrunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
