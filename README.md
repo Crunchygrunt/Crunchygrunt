@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kali linux and some of the prominent packages used in cybersecurity.
 - 💞️ I’m looking to collaborate on fields related to pentesting.
 - 📫 How to reach me: yuvrajsigh1402@gmail.com
-  
+- <script src="https://tryhackme.com/badge/443869"></script>
 
 <!---
 Crunchygrunt/Crunchygrunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
