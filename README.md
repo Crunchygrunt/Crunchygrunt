@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yuvraj Singh, Currently pursuing CSE from SRMIST.
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in Cybersecurity, software engineering.
 - 🌱 I’m currently learning kali linux and some of the prominent packages used in cybersecurity.
-- 💞️ I’m looking to collaborate on fields related to pentesting.
 - 📫 How to reach me: yuvrajsigh1402@gmail.com
 
 <!---
