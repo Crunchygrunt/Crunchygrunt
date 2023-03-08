@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yuvraj Singh, Currently pursuing CSE from SRMIST.
-- 👀 I’m interested in Cybersecurity, software engineering.
-- 🌱 I’m currently learning kali linux and some of the prominent packages used in cybersecurity.
+- 👋 Hi, I’m Yuvraj Singh, Currently a CSE Undergrad
+- 👀 I’m interested in Cybersecurity, software engineering and Cloud technologies.
+- 🌱 I’m currently learning React in Web Dev and also dabbling in Open Source.
 - 📫 How to reach me: yuvrajsigh1402@gmail.com
 
 <!---
