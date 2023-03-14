@@ -8,7 +8,7 @@ CSE Undergrad
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yuvrajsigh1402@gmail.com](mailto:yuvrajsigh1402@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning MERN Stack.
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
 * ⚡  Also I'm Microsoft Azure Certified and preparing for my 2nd exam SC-900.
 
