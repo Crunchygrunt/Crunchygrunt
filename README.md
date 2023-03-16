@@ -6,7 +6,7 @@ CSE Undergrad
 
 👀 I’m interested in Cybersecurity, 💻software engineering and ☁️Cloud technologies. 🌱 I’m currently learning React in Web Dev and also dabbling in Open Source. ⌛My favourite passtime activities are fiddling with kali Linux Tools and following 🚀SpaceX Updates.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [yuvrajsigh1402@gmail.com](mailto:yuvrajsigh1402@gmail.com)
 * 🧠  I'm learning MERN Stack.
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
