@@ -14,8 +14,7 @@ CSE Undergrad
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
 * ⚡  Also I'm Microsoft Azure Certified and preparing for my 2nd exam SC-900.
 
-<a href="https://www.github.com/Crunchygrunt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Crunchygrunt?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+[![](https://visitcount.itsvg.in/api?id=Crunchygrunt&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### Skills
 
