@@ -14,7 +14,7 @@ CSE Undergrad
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
 * ⚡  Also I'm Microsoft Azure Certified and preparing for my 2nd exam SC-900.
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/81518268/229599081-5fa97e72-ad95-4dc3-9bb1-78f6097bf596.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81518268/229599081-5fa97e72-ad95-4dc3-9bb1-78f6097bf596.gif">
 
 ### Skills
 
