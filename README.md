@@ -14,7 +14,7 @@ CSE Undergrad
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
 * ⚡  Also I'm Microsoft Azure Certified and preparing for my 2nd exam SC-900.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81518268/229599081-5fa97e72-ad95-4dc3-9bb1-78f6097bf596.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/81518268/229599081-5fa97e72-ad95-4dc3-9bb1-78f6097bf596.gif">
 
 ### Skills
 
@@ -40,7 +40,7 @@ CSE Undergrad
 <b>My GitHub Stats</b>
 
 
-<a href="https://github.com/Crunchygrunt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crunchygrunt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Crunchygrunt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crunchygrunt&&hide=shell&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/Crunchygrunt"><img src="https://readme-stats-crunchygrunt.vercel.app/api?username=Crunchygrunt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Crunchygrunt's GitHub stats" /></a>
 
