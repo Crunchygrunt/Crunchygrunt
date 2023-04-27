@@ -12,7 +12,7 @@ CSE Undergrad
 * ✉️  You can contact me at [yuvrajsigh1402@gmail.com](mailto:yuvrajsigh1402@gmail.com)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on projects including Security, Cloud or React
-* ⚡  Also I'm Microsoft Azure Certified and preparing for my 3rd exam SC-900.
+* ⚡  Also I'm Microsoft Azure Certified(AZ-900 & AI-900) and preparing for my 3rd exam SC-900.
 
 [![](https://visitcount.itsvg.in/api?id=Crunchygrunt&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
