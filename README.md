@@ -11,7 +11,7 @@ CSE Undergrad
 * 🖥️  See my portfolio at [MyPortfolio](http://yuvrajs-portfolio.netlify.app/)
 * ✉️  You can contact me at [yuvrajsigh1402@gmail.com](mailto:yuvrajsigh1402@gmail.com)
 * 🧠  I'm learning Devops tools like Terraform, Docker.
-* 👍  Proficient in Azure, AWS, Linux.
+* 👍   Proficient in Azure, AWS, Linux.
 * ⚡  Also I'm Microsoft Azure Certified(AZ-900 & AI-900) and preparing for my 3rd exam AI-102.
 
 [![](https://visitcount.itsvg.in/api?id=Crunchygrunt&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
